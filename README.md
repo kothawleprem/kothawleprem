@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on ... Anything Nice in front of me!
 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [SocialBay](socialbay.herokuapp.com/contact)
+- 📫 How to reach me: ... [SocialBay](https://socialbay.herokuapp.com/contact)
 - 😄 Pronouns: ... He/Him
 
